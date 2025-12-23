@@ -6,3 +6,7 @@
 	path = glmmTMB
 	url = https://github.com/glmmtmb/glmmtmb
 	subdir = glmmTMB
+[submodule "reformulas"]
+	path = reformulas
+	url = https://github.com/bbolker/reformulas
+	registered = false
